@@ -3,4 +3,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="green">#57b000</color>
+    <color name="md_theme_primary">#006493</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#C9E6FF</color>
+    <color name="md_theme_secondary">#51606F</color>
+    <color name="md_theme_surface">#F8F9FF</color> <color name="md_theme_onSurface">#191C1E</color> <color name="md_theme_onSurfaceVariant">#43474E</color> <color name="green_success">#1B5E20</color>
 </resources>
